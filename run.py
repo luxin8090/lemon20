@@ -42,4 +42,4 @@ def execute_fun(filename,sheetname):
         wirte_result(filename,sheetname,case_id+1,8,final_re)
 #调用接口执行函数
 # execute_fun('D:\\yeshen\\Pycharm-Workspace\\xiamotest\\test_data\\test_case_api.xlsx','register') # 调用注册
-execute_fun('D:\\Dqcb-git\\lemon20\\test_data\\test_case_api.xlsx','login')      # 调用登录
+execute_fun('D:\\Dqcb-git\\lemon20\\test_data\\test_case_api.xlsx','register')      # 调用登录
